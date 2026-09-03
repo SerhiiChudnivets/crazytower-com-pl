@@ -40,9 +40,18 @@
   "color_highlight_text": null,
   "color_main_btn_text": null,
   "cta_background": null,
-  "logo": null,
-  "popup_logo": null,
-  "main_background_img": null,
+  "logo": {
+    "url": "/uploads/2c485143de2237c104e5ad7934e73175.webp",
+    "alt": "crazytower logo"
+  },
+  "popup_logo": {
+    "url": "/uploads/2c485143de2237c104e5ad7934e73175.webp",
+    "alt": "crazytower logo"
+  },
+  "main_background_img": {
+    "url": "/uploads/cc01fa19cf70c51b5dd2465da22cc815.webp",
+    "alt": "crazytower casino"
+  },
   "header_menu": null,
   "footer_menu": null,
   "footer_images": null,
@@ -50,8 +59,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-09-03T12:27:30.475Z",
+  "_generated_at": "2026-09-03T12:55:39.688Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-03T12:27:33.469Z",
-  "_deploy_trigger": "u9sr2m"
+  "_last_deploy": "2026-09-03T12:55:40.260Z",
+  "_deploy_trigger": "lo2uzo"
 }
