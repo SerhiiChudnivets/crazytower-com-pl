@@ -1,7 +1,7 @@
 {
   "name": "crazytower-com.pl",
   "site_name": "Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry",
-  "html_head": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/pl-pl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/pl-pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
   "url": "crazytower-com.pl",
   "template": "tupchiy",
   "language_code": "pl",
@@ -181,8 +181,73 @@
       "image_alt": "btc"
     }
   ],
-  "Slots": null,
-  "Bonuses": null,
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+      "name": "King of the West",
+      "Name": "King of the West",
+      "logo_alt": "king of the west"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of the West",
+      "Name": "Legacy of the West",
+      "logo_alt": "Legacy of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead of Alive",
+      "Name": "Dead of Alive",
+      "logo_alt": "Dead or Alive"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
+      "name": "Big Bass Splash",
+      "Name": "Big Bass Splash",
+      "logo_alt": "big bass splash"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Sport Bonus",
+      "Name": "Sport Bonus",
+      "logo_alt": "Sport Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Welcome Bonus",
+      "Name": "Welcome Bonus",
+      "logo_alt": "Welcome Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Exclusive Bonus",
+      "Name": "Exclusive Bonus",
+      "logo_alt": "Exclusive Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Weekly Bonus",
+      "Name": "Weekly Bonus",
+      "logo_alt": "Weekly Bonus"
+    }
+  ],
   "Reviews": null,
   "FAQ": [
     {
@@ -206,10 +271,10 @@
       "question": "Ile czasu trwa proces wypłaty wygranych środków?"
     }
   ],
-  "_generated_at": "2026-09-04T11:43:39.043Z",
+  "_generated_at": "2026-09-04T11:54:04.963Z",
   "_version": "1.0.0",
   "html_head_alt": "crazytower casino",
   "content_alt": "crazytower slots PL",
-  "_last_deploy": "2026-09-04T11:43:39.643Z",
-  "_deploy_trigger": "wqayfq"
+  "_last_deploy": "2026-09-04T11:54:05.599Z",
+  "_deploy_trigger": "edo3ie"
 }
