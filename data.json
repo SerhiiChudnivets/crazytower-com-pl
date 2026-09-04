@@ -1,7 +1,7 @@
 {
   "name": "crazytower-com.pl",
   "site_name": "Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
   "url": "crazytower-com.pl",
   "template": "tupchiy",
   "language_code": "pl",
@@ -77,14 +77,14 @@
   "home_name": "CrazyTower",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#261817",
+  "secondary_background": "#422721",
+  "button_background": "#E4AE2E",
+  "button_text_color": "#EFE2BD",
+  "text_color": "#D19A64",
+  "color_highlight_text": "#EFE2BD",
+  "color_main_btn_text": "#000000",
+  "cta_background": "#2A873C",
   "logo": {
     "url": "/uploads/2c485143de2237c104e5ad7934e73175.webp",
     "alt": "crazytower logo"
@@ -206,9 +206,10 @@
       "question": "Ile czasu trwa proces wypłaty wygranych środków?"
     }
   ],
-  "_generated_at": "2026-09-04T11:29:44.896Z",
+  "_generated_at": "2026-09-04T11:43:39.043Z",
   "_version": "1.0.0",
+  "html_head_alt": "crazytower casino",
   "content_alt": "crazytower slots PL",
-  "_last_deploy": "2026-09-04T11:29:45.504Z",
-  "_deploy_trigger": "bkwmlk"
+  "_last_deploy": "2026-09-04T11:43:39.643Z",
+  "_deploy_trigger": "wqayfq"
 }
